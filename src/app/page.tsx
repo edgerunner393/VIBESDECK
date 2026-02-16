@@ -4,7 +4,7 @@ const X = () => {
   return (
     <div>
       <Button>
-        Click me  
+        git check 
       </Button>
     </div>
   );
