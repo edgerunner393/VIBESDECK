@@ -56,7 +56,7 @@ export default function RootLayout({
               <SignInButton />
               <SignUpButton>
                 <button className="bg-purple-500 text-white p-2 rounded">
-                  Sing Up
+                  Sign Up
                 </button>
               </SignUpButton>
               </SignedOut>
